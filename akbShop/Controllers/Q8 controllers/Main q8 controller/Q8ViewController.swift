@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  Q8ViewController.swift
 //  akbShop
 //
 //  Created by Admin on 27.08.2020.
@@ -8,13 +8,14 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class Q8ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
 
+        self.title = "Масло Q8"
+        
+    }
+    
 
 }
-

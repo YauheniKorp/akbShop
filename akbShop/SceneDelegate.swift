@@ -17,6 +17,28 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // Use this method to optionally configure and attach the UIWindow `window` to the provided UIWindowScene `scene`.
         // If using a storyboard, the `window` property will automatically be initialized and attached to the scene.
         // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
+//        if let windowScene = scene as? UIWindowScene {
+//            let window = UIWindow(windowScene: windowScene)
+//            let firstVC = VartaVC()
+//            let secondVC = BasketViewController()
+//            
+//            // Навигация
+////            let firstNavController = UINavigationController(rootViewController: firstVC)
+////            let secondNavController = UINavigationController(rootViewController: secondVC)
+//            
+//            let tabBarVC = UITabBarController()
+//            tabBarVC.setViewControllers([firstVC, secondVC], animated: true)
+//            
+//            window.rootViewController = tabBarVC
+////            window.backgroundColor = .white
+////
+//            // Подгружаем title и tabBarItem от SecondViewController
+////            secondVC.loadViewIfNeeded()
+//            
+//            self.window = window
+//            window.makeKeyAndVisible()
+//        }
+        
         guard let _ = (scene as? UIWindowScene) else { return }
     }
 
