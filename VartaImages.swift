@@ -8,7 +8,7 @@
 
 import UIKit
 
-struct Images {
+struct VartaImages {
     static let varta40AsiaEuro = UIImage(named: "Varta40AsiaEuro")!
     static let varta40AsiaRus = UIImage(named: "Varta40AsiaRus")!
     static let varta45AsiaEuro = UIImage(named: "Varta45AsiaEuro")!

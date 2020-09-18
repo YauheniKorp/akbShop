@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		84261759250A4B5800F0D4DD /* BasketViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84261758250A4B5800F0D4DD /* BasketViewController.swift */; };
+		847DD4192514F04800F67E60 /* BannerImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847DD4182514F04800F67E60 /* BannerImages.swift */; };
 		84AE5DD92503951D00B1E9A2 /* UIView+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AE5DD82503951D00B1E9A2 /* UIView+Ext.swift */; };
 		84AE5DDD2503A4FF00B1E9A2 /* BatteryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AE5DDC2503A4FF00B1E9A2 /* BatteryCell.swift */; };
 		84AE5DDF25040F1F00B1E9A2 /* VartaImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AE5DDE25040F1F00B1E9A2 /* VartaImages.swift */; };
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		84261758250A4B5800F0D4DD /* BasketViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasketViewController.swift; sourceTree = "<group>"; };
+		847DD4182514F04800F67E60 /* BannerImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerImages.swift; sourceTree = "<group>"; };
 		84AE5DD82503951D00B1E9A2 /* UIView+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Ext.swift"; sourceTree = "<group>"; };
 		84AE5DDC2503A4FF00B1E9A2 /* BatteryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BatteryCell.swift; sourceTree = "<group>"; };
 		84AE5DDE25040F1F00B1E9A2 /* VartaImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VartaImages.swift; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 			isa = PBXGroup;
 			children = (
 				84AE5DDE25040F1F00B1E9A2 /* VartaImages.swift */,
+				847DD4182514F04800F67E60 /* BannerImages.swift */,
 				84AE5DD82503951D00B1E9A2 /* UIView+Ext.swift */,
 				84CBE21F24F7BE51003A6FBA /* akbShop */,
 				84CB5B6724FBC8B200DCB3E6 /* Assets.xcassets */,
@@ -240,6 +243,7 @@
 				84AE5DD92503951D00B1E9A2 /* UIView+Ext.swift in Sources */,
 				84CBE22324F7BE51003A6FBA /* SceneDelegate.swift in Sources */,
 				84CBE23524F7FB4C003A6FBA /* AkbViewController.swift in Sources */,
+				847DD4192514F04800F67E60 /* BannerImages.swift in Sources */,
 				84CB5B6024FA756100DCB3E6 /* AkbCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
